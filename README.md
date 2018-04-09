@@ -1,10 +1,14 @@
 # Human Brain Connectivity (NBE-E4530)
 
+
+
 ## Intro
 
 **Hello!**
 
 Samu is my name, and this is my GIT project for the course *[Human Brain Connectivity course (NBE-E4530)](https://mycourses.aalto.fi/course/view.php?id=19534)*.
+
+
 
 ## Key skills so far
 
@@ -17,6 +21,8 @@ Samu is my name, and this is my GIT project for the course *[Human Brain Connect
       Practical experience in electrophysiological techniques such as patch clamp and local field potentials
 
 * Killer skills in guitar hero
+
+
 
 
 ## Expectations and desired learning outcomes
