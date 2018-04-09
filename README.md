@@ -4,7 +4,7 @@
 
 **Hello!**
 
-Samu is my name, and this is my GIT project for the course *[Human Brain Connectivity course (NBE-E4530](https://mycourses.aalto.fi/course/view.php?id=19534)*.
+Samu is my name, and this is my GIT project for the course *[Human Brain Connectivity course (NBE-E4530)](https://mycourses.aalto.fi/course/view.php?id=19534)*.
 
 ## Key skills so far
 
